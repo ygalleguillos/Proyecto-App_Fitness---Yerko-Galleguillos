@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">App_fitness</string>
+    <string name="title_activity_maps_act">Map</string>
+    <string name="title_activity_clientes_act">Map</string>
+</resources>
